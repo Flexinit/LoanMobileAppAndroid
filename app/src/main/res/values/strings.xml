@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EMESCCOS</string>
+    <string name="tab_text_1">Personal Data</string>
+    <string name="tab_text_2">Income Data</string>
+    <string name="tab_text_3">Reason/Use</string>
+    <string name="loan_application">Apply for Loan</string>
+</resources>
